@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/shadadi/shadadi-2024-Crosswalk/:/
+ - /content/shadadi/shadadi-2024-Crosswalk/metadata.json:/metadata.json
+ - /content/shadadi/shadadi-2024-Crosswalk/redirects.json:/redirects.json
